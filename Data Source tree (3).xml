@@ -1,0 +1,166 @@
+<mxGraphModel dx="1308" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell id="41" value="" style="group" parent="1" vertex="1" connectable="0">
+      <mxGeometry x="18" y="370" width="90" height="110" as="geometry"/>
+    </mxCell>
+    <mxCell id="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.5;entryY=0;" parent="1" source="26" target="27" edge="1">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" parent="1" source="26" target="36" edge="1">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="26" value="Weekly / Daily" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="315" y="253" width="120" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;" parent="1" source="27" edge="1" target="95">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="48.470588235294144" y="519" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;" parent="1" source="27" target="94" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="261.41176470588243" y="520" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="27" value="Arrival / Booking?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="93" y="333" width="125" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;" parent="1" source="36" target="37" edge="1">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" parent="1" source="36" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="769.6470588235293" y="424.88235294117646" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="36" value="Arrival / Booking?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="567.5" y="333" width="130" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;" parent="1" target="43" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="422.5882352941178" y="464.3823529411766" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;" parent="1" target="97" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="532" y="464.3823529411766" as="sourcePoint"/>
+        <mxPoint x="574.3529411764707" y="520.1764705882354" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="37" value="Fiscal Year / Natural Year" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="425" y="425" width="110" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="43" value="Mercury" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+      <mxGeometry x="347.5" y="519" width="65" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="30" value="Arrival Date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+      <mxGeometry x="18" y="353" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="31" value="Booking Date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+      <mxGeometry x="208" y="353" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="46" value="Arrival Date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+      <mxGeometry x="467.5" y="353" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="47" value="Booking Date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+      <mxGeometry x="685" y="350" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="75" value="Are you looking for the standard data which is creating all 2021 comparisons (FY and NY) Vs 2019?&lt;br&gt;&lt;br&gt;OR&lt;br&gt;&lt;br&gt;are you looking for an ad-hoc comparison to run Vs 2020?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=#FFFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+      <mxGeometry x="800" y="80" width="290" height="110" as="geometry"/>
+    </mxCell>
+    <mxCell id="84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="83" target="26">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="83" target="113">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="83" value="Standard / Ad-hoc" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="315" y="67" width="120" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="86" value="Ad-Hoc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="430" y="82" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="87" value="Standard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="285" y="152" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="90" value="Weekly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="222" y="273" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="91" value="Daily" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="435" y="273" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="94" value="#2" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+      <mxGeometry x="233" y="518.5" width="65" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="95" value="#1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+      <mxGeometry x="18" y="518.5" width="65" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="97" value="Jupiter" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+      <mxGeometry x="540" y="518.5" width="65" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="103" value="Fiscal Year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="345" y="444" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="104" value="Natural Year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="529" y="444" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;" edge="1" target="109" parent="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="717.0882352941178" y="464.3823529411766" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;" edge="1" target="110" parent="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="826.5" y="464.3823529411766" as="sourcePoint"/>
+        <mxPoint x="868.8529411764707" y="520.1764705882354" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="108" value="Fiscal Year / Natural Year" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="719.5" y="425" width="110" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="109" value="Venus" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+      <mxGeometry x="642" y="519" width="65" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="110" value="Saturno" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+      <mxGeometry x="834.5" y="518.5" width="65" height="80" as="geometry"/>
+    </mxCell>
+    <mxCell id="111" value="Fiscal Year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="639.5" y="444" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="112" value="Natural Year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="823.5" y="444" width="90" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="113" value="#0 / PreMercury" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+      <mxGeometry x="557.5" y="147.5" width="206" height="85" as="geometry"/>
+    </mxCell>
+    <mxCell id="114" value="Do you need aggregated data on a weekly basis&amp;nbsp;&lt;br&gt;&lt;br&gt;OR&lt;br&gt;&lt;br&gt;&amp;nbsp;do you need full set of details on a daily basis?" style="text;html=1;strokeColor=none;fillColor=#FFFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="800" y="200" width="290" height="90" as="geometry"/>
+    </mxCell>
+    <mxCell id="116" value="What set of data are you aiming to report? Is it all the arrivals which are happening / going to happen?&amp;nbsp;&lt;br&gt;&lt;br&gt;OR&lt;br&gt;&lt;br&gt;are you looking for all the bookings created on a certain period independantly on when they will arrive?&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="800" y="296.5" width="430" height="103" as="geometry"/>
+    </mxCell>
+    <mxCell id="117" value="And finally...are you looking for the Hotelbeds Fiscal Year&lt;br&gt;&lt;br&gt;OR&lt;br&gt;&amp;nbsp;&lt;br&gt;the standard Natural Year?&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="920" y="440" width="213" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="118" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
+      <mxGeometry x="332.5" y="62" width="30" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="119" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
+      <mxGeometry x="330" y="253" width="30" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="120" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
+      <mxGeometry x="110" y="333" width="30" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="121" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
+      <mxGeometry x="590" y="330" width="30" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="122" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
+      <mxGeometry x="727" y="421" width="30" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="123" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF99;" vertex="1" parent="1">
+      <mxGeometry x="435" y="421" width="30" height="30" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
